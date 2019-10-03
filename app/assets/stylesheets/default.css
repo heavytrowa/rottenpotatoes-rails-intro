@@ -46,7 +46,7 @@ h1 {
 #movies th {
   border: 2px solid white;
   font-weight: bold;
-  background-color: white;
+  background-color: grey;
 }
 #movies th, #movies td {
   padding: 10px;
