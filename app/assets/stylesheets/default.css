@@ -14,7 +14,7 @@ html, body {
 /*for the underline and maroon part, where you can click*/
 a {
   background: transparent;
-  color: blue;
+  color: lightblue;
   font-weight: bold;
 }
 
@@ -24,16 +24,14 @@ h1 {
   font-size: 150%;
   display: block;
   width: 100%;
-  border-bottom: 1px solid DarkSlateGrey;
 }
 
 /*for the big title background*/
 .title {
   margin: 0 0 1em;
   padding: 10px;
-  background-color: orange;
+  background-color: Blue;
   color: white;
-  border-bottom: 4px solid yellow;
   font-size: 2em;
   font-style: normal;
 }
@@ -41,7 +39,6 @@ h1 {
   margin: 12px;
   border-collapse: collapse;
   width: 100%;
-  /*border-bottom: 2px solid black;*/
 }
 #movies th {
   font-weight: bold;
