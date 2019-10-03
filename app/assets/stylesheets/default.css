@@ -35,29 +35,23 @@ h1 {
   font-size: 2em;
   font-style: normal;
 }
-#movies {
-  margin: 12px;
-  border-collapse: collapse;
-  width: 100%;
-}
-#movies th {
-  font-weight: bold;
-  background-color: grey;
-}
-#movies th, #movies td {
-  padding: 10px;
-  text-align: left;
-}
-#notice #warning {
-  background: rosybrown;
-  margin: 1em 0;
-  padding: 4px;
-}
-/*form label {*/
-/*  display: block;*/
-/*  line-height: 25px;*/
+/*#movies {*/
+/*  margin: 12px;*/
+/*  border-collapse: collapse;*/
+/*  width: 100%;*/
+/*}*/
+/*#movies th {*/
 /*  font-weight: bold;*/
-/*  color: maroon;*/
+/*  background-color: grey;*/
+/*}*/
+/*#movies th, #movies td {*/
+/*  padding: 10px;*/
+/*  text-align: left;*/
+/*}*/
+/*#notice #warning {*/
+/*  background: rosybrown;*/
+/*  margin: 1em 0;*/
+/*  padding: 4px;*/
 /*}*/
 #movies .hilite {
   background-color: yellow;
