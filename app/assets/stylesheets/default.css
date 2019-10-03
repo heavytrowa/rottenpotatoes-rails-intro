@@ -14,7 +14,7 @@ html, body {
 /*for the underline and maroon part, where you can click*/
 a {
   background: transparent;
-  color: maroon;
+  color: blue;
   text-decoration: underline;
   font-weight: bold;
 }
