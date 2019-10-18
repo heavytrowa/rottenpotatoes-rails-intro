@@ -1,0 +1,2 @@
+https://github.com/heavytrowa/rottenpotatoes-rails-intro
+https://afternoon-sands-69137.herokuapp.com/
